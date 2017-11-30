@@ -18,6 +18,7 @@
 		<derby.version>10.14.1.0</derby.version>
 		<activemq.version>5.15.2</activemq.version>
 		<uid>Mike-Lassen-Advanced-Course</uid>
+		<pwd></pwd>
 	</properties>
 
 	<build>
